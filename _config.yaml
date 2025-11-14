@@ -1,3 +1,24 @@
-theme: jekyll-theme-minimal
+remote_theme: tedivm/jekyll-theme-portfolio
+
+
 title: GDelvoye's portfolio
-description: Link to the main personnal projects.
+author: G Delvoye
+email: gau.delvoye@gmail.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+
+# Header Links - all optional. If set these create header links.
+homepage: https://your.homepage.com
+twitter_username: example
+github_username: example
+linkedin_username: example
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme # Lets us test remote themes locally.
+
