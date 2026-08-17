@@ -4,10 +4,10 @@
       description: Web application that helps players of the Napoleon 1806 board game calculate combat victory probabilities from each side's dice pool.
       homepage: https://gdelvoye.github.io/napoleon1806/
       github: GDelvoye/napoleon1806
-      icon: fas fa-dice
+      image: napoleon.png
 
     - name: Cube Descriptor
       description: "Django application for building Magic: The Gathering cubes, managing card selections, and analyzing booster/statistical indicators from a PostgreSQL-backed dataset."
       homepage: https://cube.gdelvoye.fr/
       github: GDelvoye/cube-descriptor
-      icon: fas fa-cubes
+      image: cube.png
