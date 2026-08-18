@@ -19,5 +19,5 @@ My current focus is turning domain-specific problems into usable applications: c
 
 ## Links
 
-- Portfolio: [GDelvoye/portfolio](https://github.com/GDelvoye/portfolio)
+- Portfolio: [home.gdelvoye.fr](https://home.gdelvoye.fr/)
 - LinkedIn: [gauthier-d](https://www.linkedin.com/in/gauthier-d-b85673173/)
